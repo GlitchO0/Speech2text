@@ -1,2 +1,8 @@
 Flask
 SpeechRecognition
+Click
+colorama
+itsdangerous
+Jinja2
+MarkupSafe
+pyaudio
