@@ -1,5 +1,6 @@
 from flask import Flask
 import speech_recognition as sr
+
 app = Flask(__name__)
 
 def recognize_speech():
@@ -27,4 +28,4 @@ def recognize_speech_route():
     return result
 
 if __name__ == "__main__":
-    app.run(debug=True,host='0.0.0.0', port=5000)
+    app.run(host='0.0.0.0', port=5000)
