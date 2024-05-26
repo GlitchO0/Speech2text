@@ -1,3 +1,4 @@
-speech2txtApp.py
-requirements.txt
-render.yaml
+/your-project-directory
+├── speech2txtApp.py
+├── requirements.txt
+└── render.yaml
