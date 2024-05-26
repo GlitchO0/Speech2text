@@ -1,6 +1,5 @@
 Flask
 pipwin
 poetry 
-portaudio
-pyaudio
+PyAudio
 SpeechRecognition
