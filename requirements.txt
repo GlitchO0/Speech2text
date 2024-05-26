@@ -1,5 +1,5 @@
 Flask
 pipwin
 poetry 
-libportaudio2
+sudo apt-get install libportaudio2
 SpeechRecognition
