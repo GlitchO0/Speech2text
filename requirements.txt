@@ -1,4 +1,3 @@
 Flask
 SpeechRecognition
-portaudio
-PyAudio
+pyaudio
