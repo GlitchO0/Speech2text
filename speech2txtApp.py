@@ -1,6 +1,6 @@
 from flask import Flask
 import speech_recognition as sr
-import pyaudio
+import PyAudio
 
 app = Flask(__name__)
 
