@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: my-pyaudio-app
+    env: python
+    plan: free
+    buildCommand: ./install_dependencies.sh
+    startCommand: python app.py
