@@ -3,5 +3,4 @@ Flask
 pipwin
 poetry 
 SpeechRecognition
-portaudio
 PyAudio==0.2.14
