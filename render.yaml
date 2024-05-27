@@ -1,7 +1,7 @@
 services:
   - type: web
-    name: my-pyaudio-app
+    name: your-service-name
     env: python
     plan: free
     buildCommand: ./install_dependencies.sh
-    startCommand: python speech2txtApp.py
+    startCommand: python app.py
