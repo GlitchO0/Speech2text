@@ -2,4 +2,4 @@ Flask
 pipwin
 poetry 
 SpeechRecognition
-pyaudio
+PyAudio==0.2.14
