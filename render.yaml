@@ -4,4 +4,4 @@ services:
     env: python
     plan: free
     buildCommand: ./install_dependencies.sh
-    startCommand: python app.py
+    startCommand: python speech2txtApp.py
